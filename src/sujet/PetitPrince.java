@@ -24,5 +24,8 @@ public class PetitPrince implements Sujet {
 		return argent;
 	}
 	
+	public void run() {
+		
+	}
 	
 }
